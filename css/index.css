@@ -106,7 +106,7 @@ li {
   justify-content: center;
   align-items: center;
 
-  background-image: url("./images/headerBG.jpg");
+  background-image: url("../images/headerBG.jpg");
   height: 200px;
 
   margin-bottom: 46px;
@@ -173,7 +173,7 @@ li {
   width: 22px;
   height: 22px;
   float: left;
-  background-image: url("./images/arrow-down.svg");
+  background-image: url("../images/arrow-down.svg");
   margin-right: 16px;
 }
 
@@ -182,7 +182,7 @@ li {
   width: 22px;
   height: 22px;
   float: right;
-  background-image: url("./images/arrow-down.svg");
+  background-image: url("../images/arrow-down.svg");
   margin-left: 16px;
 }
 
@@ -202,7 +202,7 @@ li {
   float: left;
 
   margin: 12px 16px 0 0;
-  background-image: url("./images/leftHand.svg");
+  background-image: url("../images/leftHand.svg");
 }
 
 .haga__button::after {
@@ -211,7 +211,7 @@ li {
   height: 27px;
   float: right;
   margin: 12px 0 0 16px;
-  background-image: url("./images/rightHand.svg");
+  background-image: url("../images/rightHand.svg");
 }
 
 .button-text {
@@ -467,7 +467,7 @@ li {
   margin: -10px -70px 0 0;
   /* margin: 20px -70px 0 0; */
 
-  background: url("./images/exclamation-circleBig.svg");
+  background: url("../images/exclamation-circleBig.svg");
   background-repeat: no-repeat;
 }
 
@@ -478,7 +478,7 @@ li {
   float: left;
   margin: 7px 19px 0 20px;
 
-  background: url("./images/exclamation-circle.svg");
+  background: url("../images/exclamation-circle.svg");
   background-repeat: no-repeat;
 }
 
