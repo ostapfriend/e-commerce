@@ -7,4 +7,6 @@ Technologies I used here:
   -css
   -bootstrap
   
+  Page - https://ostapfriend.github.io/e-commerce/
+  
   
